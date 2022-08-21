@@ -4,4 +4,6 @@ insert into craft_training.notes_a(title, content, createdAt, updatedAt)
                            values(:title, :content, :createdAt, :updatedAt)
 
 
+
+
 SELECT * FROM craft_training.notes_a;
